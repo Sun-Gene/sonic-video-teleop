@@ -28,6 +28,11 @@ Demo GIF 放在 `assets/demo/`。README 展示用的图片、GIF、截图通常�
   <img src="assets/demo/demo2.gif" width="48%" alt="视频遥操作 demo 2" />
 </p>
 
+<p align="center">
+  <strong>真机部署 Demo</strong><br />
+  <img src="assets/demo/real_robot.gif" width="72%" alt="真机视频遥操作 demo" />
+</p>
+
 ## 目录约定
 
 下面所有命令使用 `$WORKSPACE`，请先设置成你的工作目录：

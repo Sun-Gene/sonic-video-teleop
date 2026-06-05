@@ -22,6 +22,11 @@ runnable examples or sample scripts.
   <img src="assets/demo/demo2.gif" width="48%" alt="Video teleoperation demo 2" />
 </p>
 
+<p align="center">
+  <strong>Real Robot Deployment</strong><br />
+  <img src="assets/demo/real_robot.gif" width="72%" alt="Real robot video teleoperation demo" />
+</p>
+
 ## Upstream Projects
 
 - GR00T-WholeBodyControl: https://github.com/NVlabs/GR00T-WholeBodyControl
