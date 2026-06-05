@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.engine
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.mp4
+*.avi
+*.mov
+*.pdf
+outputs/
+debug/
+.env
+.venv/
